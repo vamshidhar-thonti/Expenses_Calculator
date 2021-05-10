@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "101498090024",
+    "firebase_url": "https://everyday-expenses.firebaseio.com",
+    "project_id": "everyday-expenses",
+    "storage_bucket": "everyday-expenses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101498090024:android:1d2678ec53e16176effb1d",
+        "android_client_info": {
+          "package_name": "com.example.expensecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101498090024-2iih9set2iv930qhsk36n52umo7t6ksa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensecalculator",
+            "certificate_hash": "ca1d5c17deaba8307f68f612641af5343cb5f62c"
+          }
+        },
+        {
+          "client_id": "101498090024-v8do28dbikbd997ccldu9bu52aiqhkpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHyQTr3mEF6Poni89eHlcPlW1ugTNBNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101498090024-v8do28dbikbd997ccldu9bu52aiqhkpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101498090024:android:ee1a6b0c916e107feffb1d",
+        "android_client_info": {
+          "package_name": "com.project.expensescalculatorv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101498090024-uhgkshfev6j1jmkvqtb7ict1hmjafn9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.expensescalculatorv2",
+            "certificate_hash": "ca1d5c17deaba8307f68f612641af5343cb5f62c"
+          }
+        },
+        {
+          "client_id": "101498090024-v8do28dbikbd997ccldu9bu52aiqhkpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHyQTr3mEF6Poni89eHlcPlW1ugTNBNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101498090024-v8do28dbikbd997ccldu9bu52aiqhkpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
