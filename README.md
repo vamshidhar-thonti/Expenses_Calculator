@@ -1,3 +1,3 @@
 # Expenses_Calculator
 
-<a href="https://github.com/vamshidhar281997/Expenses_Calculator/Expenses Calculator v2.zip">Air Mouse Server</a>
+<a href="https://github.com/vamshidhar281997/Expenses_Calculator">Air Mouse Server</a>
